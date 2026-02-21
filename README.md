@@ -4,8 +4,6 @@
 
 ## 🚀 Startup Engineer | Building the Future
 
-### I don't just write code, I build Nexus Events."
-
 ## About me 
 
 >I am an aspiring software engineer based in Cape Town, South Africa.<br> 
